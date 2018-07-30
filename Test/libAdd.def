@@ -1,0 +1,8 @@
+LIBRARY libAdd
+EXPORTS
+libAddInitialize
+libAddInitializeWithHandlers
+libAddTerminate
+libAddPrintStackTrace
+mlxAdd
+
